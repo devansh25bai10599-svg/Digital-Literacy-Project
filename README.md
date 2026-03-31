@@ -25,6 +25,3 @@ You can explore the project directly on GitHub in any browser. No special softwa
 # Digital Literacy Awareness Quiz Link
 https://docs.google.com/forms/d/e/1FAIpQLSfruEITat9fwUaVUMbw8dfNdDn-fwRfTsSTNXqOUC54aD_L4Q/viewform?usp=sharing&ouid=105611912040830041509
 
-Click on folders task-1-presentation/ to task-5-cybercrime/ to see artifacts for each task.
-Open Project_Report.pdf to read the full project report.
-Digital Literacy Awareness Quiz Link
